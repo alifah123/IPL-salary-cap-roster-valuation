@@ -72,4 +72,4 @@ Based on data patterns, the following structured recommendations are proposed fo
 ---
 
 ## 💻 Exploring the Code
-You can review the fully commented, production-grade SQL scripts utilized for this audit in the [IPL salary analysis.sql/](IPL salary analysis.sql/) directory (tested and executed on MySQL 8.0).
+You can review the fully commented, production-grade SQL scripts utilized for this audit in the IPL salary analysis.sql [IPL salary analysis.sql/](IPL salary analysis.sql/) directory (tested and executed on MySQL 8.0).
